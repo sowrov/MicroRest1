@@ -29,6 +29,7 @@ blog/bin/
 ### Gradle ###
 .gradle
 **/.gradle
+gradle/**
 build/**
 **/build/
 
